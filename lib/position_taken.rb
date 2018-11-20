@@ -2,7 +2,7 @@
 def position_taken? (board,index)
   If board(index) == " "
     false
-  If board)index) == ""
+  If board(index) == ""
     false
   elsif board(index) == nil
     false
@@ -10,3 +10,4 @@ def position_taken? (board,index)
     true
   end
 end
+
